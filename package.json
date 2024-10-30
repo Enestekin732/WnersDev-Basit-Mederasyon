@@ -1,0 +1,15 @@
+{
+  "name": "video",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wnersdev_102",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aoi.js": "^6.9.0",
+    "discord.js": "^14.16.3"
+  }
+}
